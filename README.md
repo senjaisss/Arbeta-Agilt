@@ -4,26 +4,20 @@
 
 ### Vad var ditt mål med projektet initialt?
 
-Mitt mål var inte bara att bli klara, men också att arbeta tillsammans effektivt. Att verkligen fokusera på att skapa en miljö där alla  
-känner sig säkra att fråga frågor samt komma med egna idéer.
+Mitt mål var inte bara att bli klara, men också att arbeta tillsammans effektivt. Att verkligen fokusera på att skapa en miljö där alla känner sig säkra att fråga frågor samt komma med egna idéer.
 
 ### Vad var din känsla inför att arbeta i ett team när du gick in i uppgiften?
 
-När jag gick in i uppgiften upplevdes det lite krångligt att arbeta i team. Det kändes som att all kod hängde ihop med varandra och det inte gick att smidigt  
-dela upp koden så att alla kunde börja arbeta direkt.
+När jag gick in i uppgiften upplevdes det lite krångligt att arbeta i team. Det kändes som att all kod hängde ihop med varandra och det inte gick att smidigt dela upp koden så att alla kunde börja arbeta direkt.
 
 ## Planering och genomförande
 ### Hur tycker du att planeringen inför projektet fungerade?
 
-När vi satte igång med planering tyckte jag det flöt på jättesmidigt! Man kunde tydligt se i sprintloggen vem som skulle göra vad. Samt planerade vi hur vissa  
-funktioner skulle se ut, så när det kom till att koda fanns det inga frågetecken.
+När vi satte igång med planering tyckte jag det flöt på jättesmidigt! Man kunde tydligt se i sprintloggen vem som skulle göra vad. Samt planerade vi hur vissa funktioner skulle se ut, så när det kom till att koda fanns det inga frågetecken.
 
 ### Vad har du bidragit med i planeringen, samt utvecklandet av applikationen.
 
-I planeringen har jag varit aktiv. Jag har kommit med idéer om hur userstories kodmässigt ska lösas, samt hur vi ska dela upp userstories så att alla kan  
-börja direkt utan att vänta på någon annans kod. I utvecklandet av applikationen har jag skapat varukorgs-funktionaliteten(createCart och addToCart). När man  
-klickar på en maträtt/sås/dryck så läggs den till i varukorgen, priset uppdateras samt kan man radera det man lagt till. Jag har också skapat karusellen på Om Oss  
-sidan samt funktionalitet för att kunna ändra profilbild på editProfile.html.
+I planeringen har jag varit aktiv. Jag har kommit med idéer om hur userstories kodmässigt ska lösas, samt hur vi ska dela upp userstories så att alla kan börja direkt utan att vänta på någon annans kod. I utvecklandet av applikationen har jag skapat varukorgs-funktionaliteten(createCart och addToCart). När man klickar på en maträtt/sås/dryck så läggs den till i varukorgen, priset uppdateras samt kan man radera det man lagt till. Jag har också skapat karusellen på Om Oss sidan samt funktionalitet för att kunna ändra profilbild på editProfile.html.
 
 ### Beskriv med dina egna ord, er applikation
 
